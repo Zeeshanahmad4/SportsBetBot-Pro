@@ -28,3 +28,64 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 ‌.
+
+## Project Overview 🌐
+
+**SportsBetBot Pro** is an advanced automation tool tailored for sports enthusiasts. It listens to a specific Telegram group for American football bet details, searches a designated sportsbook for the same bet, and places the bet if the odds meet a certain criteria.
+
+## Features ✨
+
+- **Telegram Integration**: Seamlessly integrates with Telegram groups.
+- **Sportsbook Compatibility**: Searches for bets on a specific sportsbook.
+- **Odds Verification**: Ensures the odds match certain set criteria before placing a bet.
+- **Automated Betting**: Places the bet automatically if the criteria are met.
+- **Stealth Mode**: Operates discreetly to mimic human-like actions.
+
+
+### 🌱 To-Do Features:
+
+- **Multiple Sportsbook Support**: Extend support to multiple sportsbooks.
+- **Bet History**: Track and log all the past betting activities.
+- **Notification System**: Notify users on bet status and any errors.
+- **AI-Powered Prediction**: Utilize machine learning to predict game outcomes.
+
+
+## Requirements 🔧
+
+- Python 3.8+
+- Telegram API key
+- Sportsbook API access
+- Additional dependencies: `requirements.txt`
+
+
+## Usage Examples 💡
+```from sportsbetting_bot import SportsBetBot
+
+bot = SportsBetBot()
+bot.start_listening()
+```
+
+## Setup and Installation Instructions 🚀
+
+1. Clone the repository: `git clone https://github.com/your-username/sportsbetting_bot.git`
+2. Navigate to the directory: `cd sportsbetting_bot`
+3. Install required packages: `pip install -r requirements.txt`
+4. Update `config/settings.py` with your API keys.
+5. Run the bot: `python main.py`
+
+
+## Troubleshooting Tips 🛠️
+
+- Ensure API keys are correctly placed in `config/settings.py`.
+- Check internet connectivity if the bot isn't responding.
+- Ensure the Telegram group ID is correctly set.
+
+
+## Contribution Guidelines 🤝
+
+Contributions are always welcome! Please ensure:
+
+- You've tested the changes locally.
+- Your code follows the existing style.
+- You create a detailed pull request.
+
