@@ -29,6 +29,20 @@
 </div>
 ‌.
 
+## Table of Contents 📖
+
+- [🌐 Project Overview](#project-overview-)
+- [✨ Features](#features-)
+  - [🌱 To-Do Features](#to-do-features)
+- [📂 File Structure](#file-structure-)
+- [🔧 Requirements](#requirements-)
+- [💡 Usage Examples](#usage-examples-)
+- [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
+- [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
+- [🤝 Contribution Guidelines](#contribution-guidelines-)
+
+
+
 ## Project Overview 🌐
 
 **SportsBetBot Pro** is an advanced automation tool tailored for sports enthusiasts. It listens to a specific Telegram group for American football bet details, searches a designated sportsbook for the same bet, and places the bet if the odds meet a certain criteria.
