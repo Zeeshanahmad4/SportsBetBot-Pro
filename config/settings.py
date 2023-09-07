@@ -15,6 +15,4 @@ MINIMUM_ODDS = 1.5
 DEFAULT_BET_AMOUNT = 10.0
 
 # Stealth mode settings (example: a delay to mimic human activity)
-STEALTH_DELAY_SECONDS = 5
-
-# Other global settings can be added here
+STEALTH_DELAY_SECONDS = 
