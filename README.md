@@ -33,7 +33,7 @@
 
 - [🌐 Project Overview](#project-overview-)
 - [✨ Features](#features-)
-   - [ To-Do Features](#to-do-features🌱-)
+   - [ To-Do Features](#to-do-features-)
 - [🔧 Requirements](#requirements-)
 - [💡 Usage Examples](#usage-examples-)
    - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
