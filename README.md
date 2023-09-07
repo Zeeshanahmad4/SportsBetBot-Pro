@@ -55,7 +55,7 @@
 - **Stealth Mode**: Operates discreetly to mimic human-like actions.
 
 
-## 🌱 To-Do Features:
+## To-Do Features: 🌱
 
 - **Multiple Sportsbook Support**: Extend support to multiple sportsbooks.
 - **Bet History**: Track and log all the past betting activities.
